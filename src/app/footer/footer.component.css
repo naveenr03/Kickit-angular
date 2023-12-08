@@ -1,0 +1,66 @@
+footer {
+    color: white;
+
+}
+
+.foot {
+    display: flex;
+    flex: wrap;
+    background-color: black;
+    width: 100%;
+    height: fit-content;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.foot h2 {
+    padding-left: 60px;
+    padding-top: 20px
+}
+
+#head {
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+.info {
+    height: fit-content;
+    width: 25%
+}
+
+.info ul li {
+    list-style: none;
+    font-size: 19px;
+    padding-left: 25px;
+    letter-spacing: 2px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.news {
+    width: 50%;
+    height: fit-content;
+    padding-left: 110px;
+}
+
+#email {
+
+    padding-right: 85px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 10px;
+    margin-left: 70px;
+}
+
+
+.footer_pages {
+    color: white;
+    text-decoration: none;
+
+}
+
+#submit-btn {
+    width: 70px;
+    height: 25px;
+    border-radius: 5px;
+    background-color: white;
+}

@@ -1,0 +1,16 @@
+<div class="sigin">
+    <h2 style="padding-left: 350px; padding-bottom: 15px;"><b>Create Account</b></h2>
+    <form [formGroup]="registrationForm" (ngSubmit)="onSubmit()">
+        <p class="text text1">First Name</p>
+        <input type="text" class="logintextbox" formControlName="firstName">
+        <p class="text text2">Last Name</p>
+        <input type="text" class="logintextbox" formControlName="lastName">
+        <p class="text text3">Email *</p>
+        <input type="text" class="logintextbox" formControlName="email">
+        <p class="text text4">Phone Number </p>
+        <input type="text" class="logintextbox" formControlName="phoneNumber">
+        <p class="text text5">Password *</p>
+        <input type="text" class="logintextbox" formControlName="password">
+        <button class="loginbutton1">Create</button>
+    </form>
+</div>

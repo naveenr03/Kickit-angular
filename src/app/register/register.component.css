@@ -1,0 +1,79 @@
+.sigin {
+    padding-left: 275px;
+    width: 60%;
+    height: 100vh;
+}
+
+.login {
+    padding-left: 275px;
+    width: 60%;
+    height: 70%;
+}
+
+.logintextbox {
+    padding-right: 85px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 85px;
+    margin-left: 260px;
+}
+
+.loginbutton {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    margin-left: 330px;
+    color: white;
+    border-radius: 3px;
+    font-size: 24px;
+    padding-left: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 70px;
+    text-decoration: none;
+
+}
+
+.loginbutton:hover {
+    background-color: rgb(59, 58, 58);
+
+}
+
+.text {
+    padding-left: 260px;
+    font-size: 20px;
+}
+
+.b {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 15px;
+    padding-left: 389px;
+
+}
+
+.b a {
+    text-decoration: none;
+    color: black;
+}
+
+.loginbutton1 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    margin-left: 330px;
+    color: white;
+    border-radius: 3px;
+    font-size: 24px;
+    padding-left: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 70px;
+    text-decoration: none;
+    margin-top: 35px;
+    margin-right: 53px;
+
+}
+
+.loginbutton1:hover {
+    background-color: rgb(59, 58, 58);
+
+}
